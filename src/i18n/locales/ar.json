@@ -1,0 +1,98 @@
+
+{
+  "app": {
+    "name": "الرد الذكي",
+    "tagline": "رد تلقائي ذكي لرسائلك"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "addReply": "إضافة رد",
+    "settings": "الإعدادات",
+    "schedule": "الجدولة",
+    "backup": "النسخ الاحتياطي"
+  },
+  "home": {
+    "activeReplies": "الردود التلقائية النشطة",
+    "noReplies": "لا توجد ردود تلقائية بعد",
+    "addFirstReply": "أضف أول رد تلقائي",
+    "serviceStatus": "حالة الخدمة",
+    "serviceActive": "نشطة",
+    "serviceInactive": "غير نشطة",
+    "drivingMode": "وضع القيادة",
+    "busyMode": "وضع الانشغال",
+    "stats": "الإحصائيات",
+    "repliesSent": "الردود المرسلة"
+  },
+  "addReply": {
+    "title": "إضافة رد تلقائي",
+    "editTitle": "تعديل الرد التلقائي",
+    "triggerWords": "الكلمات المفتاحية",
+    "triggerWordsHint": "الكلمات أو العبارات التي تفعل هذا الرد (افصل بينها بفواصل)",
+    "responseMessage": "رسالة الرد",
+    "responseMessageHint": "الرسالة التي سترسل كرد تلقائي",
+    "appsToMonitor": "التطبيقات المراد مراقبتها",
+    "messageType": "نوع الرسائل",
+    "private": "رسائل خاصة",
+    "group": "رسائل المجموعات",
+    "both": "كلاهما",
+    "save": "حفظ الرد",
+    "cancel": "إلغاء"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "english": "English",
+    "arabic": "العربية",
+    "notifications": "الإشعارات",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "افتراضي النظام",
+    "account": "الحساب",
+    "upgrade": "الترقية إلى النسخة المميزة",
+    "about": "حول التطبيق",
+    "version": "الإصدار"
+  },
+  "schedule": {
+    "title": "جدولة الردود التلقائية",
+    "addSchedule": "إضافة جدول",
+    "noSchedules": "لا توجد جداول مضبوطة بعد",
+    "startTime": "وقت البدء",
+    "endTime": "وقت الانتهاء",
+    "days": "الأيام",
+    "message": "رسالة الرد التلقائي",
+    "active": "نشط"
+  },
+  "backup": {
+    "title": "النسخ الاحتياطي والاستعادة",
+    "backupNow": "نسخ احتياطي الآن",
+    "restoreBackup": "استعادة نسخة احتياطية",
+    "lastBackup": "آخر نسخة احتياطية",
+    "never": "لا يوجد",
+    "backupTo": "النسخ الاحتياطي إلى",
+    "local": "التخزين المحلي",
+    "googleDrive": "جوجل درايف",
+    "autoBackup": "نسخ احتياطي تلقائي",
+    "autoBackupFrequency": "تكرار النسخ الاحتياطي"
+  },
+  "modes": {
+    "driving": "وضع القيادة",
+    "drivingMessage": "أنا أقود الآن وسأرد عندما يكون ذلك آمنًا.",
+    "busy": "وضع الانشغال",
+    "busyMessage": "أنا مشغول الآن وسأرد عليك قريبًا.",
+    "custom": "وضع مخصص",
+    "activate": "تفعيل",
+    "deactivate": "إلغاء التفعيل",
+    "editMessage": "تعديل الرسالة"
+  },
+  "general": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "on": "تشغيل",
+    "off": "إيقاف",
+    "enabled": "مفعل",
+    "disabled": "معطل"
+  }
+}

@@ -1,0 +1,98 @@
+
+{
+  "app": {
+    "name": "Smart Response",
+    "tagline": "Intelligent Auto-Reply for Your Messages"
+  },
+  "nav": {
+    "home": "Home",
+    "addReply": "Add Reply",
+    "settings": "Settings",
+    "schedule": "Schedule",
+    "backup": "Backup"
+  },
+  "home": {
+    "activeReplies": "Active Auto-Replies",
+    "noReplies": "No auto-replies set up yet",
+    "addFirstReply": "Add your first auto-reply",
+    "serviceStatus": "Service Status",
+    "serviceActive": "Active",
+    "serviceInactive": "Inactive",
+    "drivingMode": "Driving Mode",
+    "busyMode": "Busy Mode",
+    "stats": "Statistics",
+    "repliesSent": "Replies Sent"
+  },
+  "addReply": {
+    "title": "Add Auto-Reply",
+    "editTitle": "Edit Auto-Reply",
+    "triggerWords": "Trigger Words/Phrases",
+    "triggerWordsHint": "Words or phrases that trigger this response (separate with commas)",
+    "responseMessage": "Response Message",
+    "responseMessageHint": "Message to send as auto-reply",
+    "appsToMonitor": "Apps to Monitor",
+    "messageType": "Message Type",
+    "private": "Private Messages",
+    "group": "Group Messages",
+    "both": "Both",
+    "save": "Save Reply",
+    "cancel": "Cancel"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "arabic": "العربية",
+    "notifications": "Notifications",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System Default",
+    "account": "Account",
+    "upgrade": "Upgrade to Premium",
+    "about": "About",
+    "version": "Version"
+  },
+  "schedule": {
+    "title": "Schedule Auto-Replies",
+    "addSchedule": "Add Schedule",
+    "noSchedules": "No schedules set up yet",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "days": "Days",
+    "message": "Auto-Reply Message",
+    "active": "Active"
+  },
+  "backup": {
+    "title": "Backup & Restore",
+    "backupNow": "Backup Now",
+    "restoreBackup": "Restore Backup",
+    "lastBackup": "Last Backup",
+    "never": "Never",
+    "backupTo": "Backup To",
+    "local": "Local Storage",
+    "googleDrive": "Google Drive",
+    "autoBackup": "Automatic Backup",
+    "autoBackupFrequency": "Backup Frequency"
+  },
+  "modes": {
+    "driving": "Driving Mode",
+    "drivingMessage": "I'm currently driving and will respond when it's safe.",
+    "busy": "Busy Mode",
+    "busyMessage": "I'm busy right now and will get back to you soon.",
+    "custom": "Custom Mode",
+    "activate": "Activate",
+    "deactivate": "Deactivate",
+    "editMessage": "Edit Message"
+  },
+  "general": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "on": "On",
+    "off": "Off",
+    "enabled": "Enabled",
+    "disabled": "Disabled"
+  }
+}

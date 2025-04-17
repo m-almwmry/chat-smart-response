@@ -10,6 +10,13 @@ export default {
 	],
 	prefix: "",
 	theme: {
+		extend: {
+			fontFamily: {
+				cairo: ["Cairo", "sans-serif"],
+			},
+		},
+	},
+	theme: {
 		container: {
 			center: true,
 			padding: '2rem',
